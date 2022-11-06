@@ -1,0 +1,54 @@
+@Kopernicus:FOR[PJ2]
+{
+	Body
+	{
+		//you can change the name and displayName but please do not change the identifier.
+		name = HollowedVestoid
+		identifier = PJ2/Ast_HollowedVestoid
+		cacheFile = PJ2/KopernicusFiles/2_PyriSystem/IlioC_ba_ASTEROID_BELT/Cache/HollowedVestoid.bin
+		Template
+		{
+			name = Gilly
+		}
+		Properties
+		{
+			displayName = HollowedVestoid^N
+			description = i would call it "lonely" but there's plenty of stuff around here. It's not part of an impact family though.
+			
+			//the radius given in the template is the average radius. If you use a shapemap, consider reducing the ksp "sea level" radius to keep the average radius the same.
+			radius = 31092
+			
+			//density = 3.8 gcm3
+			mass = 4.78728e18
+			
+			ScienceValues
+            {
+
+            }
+		}
+		Orbit
+		{
+			referenceBody = PJ2/C_Pyri
+		
+			color = 134,138,117,255
+			@color[*] *= 0.00392156863 //=(1/255)
+			@color[*] *= 0.6
+			
+			iconTexture = PJ2/KopernicusFiles/2_PyriSystem/IlioC_ba_ASTEROID_BELT/Icons/SpaceObject_Large.png
+
+			semiMajorAxis = 167000000
+			
+			eccentricity = 0.012
+			longitudeOfAscendingNode = 58
+			argumentOfPeriapsis = 320
+			meanAnomalyAtEpochD = 73
+			inclination = 7.0
+		}
+		ScaledVersion
+		{
+		}
+		PQS
+		{
+		}
+	}
+}

@@ -1,5 +1,13 @@
 # 2W2PJ
-2 Week 2 World Planet Jam -- the sequel to Week World Planet Jam, a collaboration between 12 modders to make a large planetary system.
+Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 12 modders to make a large planetary system.
 
-Currently contains only the stars and a placeholder orbit for Kerbin.
-**DO NOT USE**
+80 planets. 2 weeks.
+
+REQUIRES:
+* Kopernicus (and its prerequisites)
+* Niako's Mitchell-Netravali Filtered Heightmap: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
+* Kopernicus Expansions Continued-er: https://github.com/VabienArt/KopernicusExpansion-Continueder/releases
+* Scatterer: https://github.com/LGhassen/Scatterer/releases/
+* Environmental Visual Enhancements Redux: https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/
+
+Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work.

@@ -1,0 +1,57 @@
+Y304 D33
+
+UTC 03:25:00 - Liftoff
+
+UTC 03:26:06 - Booster Separation
+
+UTC 03:29:44 - Main Engine Cutoff
+
+UTC 03:29:49 - First Stage Separation
+
+UTC 03:30:01 - Second Stage Ignition
+
+UTC 03:35:08 - Second Stage Engine Cutoff
+
+UTC 03:38:47 - Beginning Approach to USC Twilight
+
+UTC 03:59:13 - Final Approach
+
+UTC 04:04:56 - Docking Sequence Complete
+
+UTC 11:17:45 - Main Engine Ignition
+
+UTC 14:53:11 - Main Engine Cutoff
+
+UTC 14:54:01 - Beginning Hull Spin-up
+
+UTC 14:55:54 - 0.25G
+
+UTC 14:57:19 - 0.5G
+
+UTC 14:58:52 - 0.75G
+
+UTC 14:59:33 - Hull Spin-up Complete
+
+UTC 17:11:38 - Exiting Sphere of Influence
+
+Y304 D57
+
+UTC 09:59:30 - Power Low
+
+UTC 09:59:47 - Changing Power Source
+
+Y306 D214
+
+UTC 01:07:29 - Exiting Sphere of Influence
+
+Y342 D114
+
+UTC 00:36:27 - Entering Sphere of Influence
+
+Y342 D124
+
+UTC 17:44:04 - Entering Sphere of Influence
+
+UTC 17:44:57 - Entering Sphere of Influence
+
+UTC 17:44:58 - Hull Breach
