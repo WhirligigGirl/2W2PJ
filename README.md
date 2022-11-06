@@ -1,5 +1,5 @@
 # 2W2PJ
-Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 12 modders to make a large planetary system.
+Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 modders to make a large planetary system.
 
 80 planets. 2 weeks.
 
