@@ -1,7 +1,7 @@
 # 2W2PJ
 Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 modders to make a large planetary system.
 
-80 planets. 2 weeks.
+80 planets. 2 weeks!
 
 REQUIRES:
 * Kopernicus (and its prerequisites)
