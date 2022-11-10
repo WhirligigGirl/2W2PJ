@@ -45,6 +45,8 @@
 			argumentOfPeriapsis = 274
 			meanAnomalyAtEpochD = 249
 			inclination = 3.21
+			
+			icon = OBJ_PE_AP
 		}
 		ScaledVersion
 		{
