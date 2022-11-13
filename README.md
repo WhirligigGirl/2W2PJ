@@ -16,7 +16,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Pyri, Armstrong, Weegletoss, Lu, and Zhandar.
 * Adstri: Support during development.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
-* Cloverdove: Olu, Millie, Glice
+* Cloverdove: Olu, Millie, Sinacin, Glice
 * The Orios: Cloud textures for Kilna, Alkin, and Arterr
 * Techo: Marith, Ulen, Ilmar, Tritonis, Andro, Arterr, Trithus
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
@@ -67,18 +67,19 @@ Ilio AB *System Barycenter*
 * Ilio-Pyri L5 **Millie**
 
 * Ilio C **Pyri**
+    * Asteroid 1 **Dord**
     * Pyri b **Armstrong**
     * Pyri-Armstrong L4 **Garner**
     * Pyri-Armstrong L5 **Lu**
-    * Asteroid 1 **Welkendon**
-    * Asteroid 2 **Weegletoss**
-    * Asteroid 3 **Naharosmank**
-    * Asteroid 4 **Schmev**
-    * Asteroid 5 **Gershmurzelen**
-    * Asteroid 6 **Raft**
-    * Asteroid 7 **Rider**
-    * Asteroid 8 **Quank**
-    * Asteroid 9 **Ogoquo**
+    * Asteroid 2 **Welkendon**
+    * Asteroid 3 **Weegletoss**
+    * Asteroid 4 **Naharosmank**
+    * Asteroid 5 **Schmev**
+    * Asteroid 6 **Gershmurzelen**
+    * Asteroid 7 **Raft**
+    * Asteroid 8 **Rider**
+    * Asteroid 9 **Quank**
+    * Asteroid 10 **Ogoquo**
     * Pyri c **Haut-Oklo**
     * Pyri d **Zhandar**
     * Pyri-Zhandar L4 *Beddul-Dopale Barycenter*
@@ -110,6 +111,7 @@ Ilio AB *System Barycenter*
     * Ilio-Oynag L4 I **Zeppeli**
     * Ilio-Oynag L4 II **Pendle**
 * Ilio-Oynag L5 (1) **Zziezel**
+    * Ilio-Oynag L5 (1) I **Skle**
 * Ilio-Oynag L5 (2) **Xeititit**
 * Ilio ABCc **Tobalk**
     * Ilio ABCc I **Turtlestar**
