@@ -1,0 +1,326 @@
+@Kopernicus:AFTER[PJ2]
+{
+	
+	@Body[Pyri]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				inSpaceLowDataValue = 15
+				inSpaceHighDataValue = 1.5
+				recoveryValue = 3
+				spaceAltitudeThreshold = 14000000
+			}
+		}
+	}
+	@Body[Dord]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 5
+				inSpaceLowDataValue = 4
+				inSpaceHighDataValue = 3.5
+				recoveryValue = 2.5
+				spaceAltitudeThreshold = 8000
+				//soi = 47000
+				//radius = 34000
+			}
+		}
+	}
+	@Body:HAS[#identifier[PJ2/Armstrong]]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+
+				landedDataValue = 0.3
+				splashedDataValue = 0.3999 //0.0001 less bc you are not a sailboat captain.
+				flyingLowDataValue = 0.7
+				flyingHighDataValue = 0.9
+				inSpaceLowDataValue = 1
+				inSpaceHighDataValue = 1.5
+				recoveryValue = 1
+				flyingAltitudeThreshold = 23500
+				spaceAltitudeThreshold = 1600000
+			}
+		}
+	}
+	@Body[Lu]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 5
+				inSpaceLowDataValue = 4
+				inSpaceHighDataValue = 2.5
+				recoveryValue = 3
+				spaceAltitudeThreshold = 133500
+			}
+		}
+	}
+	@Body[Garner]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 5
+				inSpaceLowDataValue = 4
+				inSpaceHighDataValue = 2.5
+				recoveryValue = 2.5
+				spaceAltitudeThreshold = 30000
+			}
+		}
+	}
+	@Body[Naharosmank]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 15000
+			}
+		}
+	}
+	@Body[Weegletoss]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Welkendon]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Morhomlo]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Schmev]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Gershmurzelen]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Raft]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Rider]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Quank]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[HautOklo]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				splashedDataValue = 
+				flyingLowDataValue = 
+				flyingHighDataValue =
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				flyingAltitudeThreshold = 
+				spaceAltitudeThreshold = 500000
+				//soi = 2145000
+				//radius = 356000
+			}
+		}
+	}
+	@Body[Ogoquo]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Zhandar]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				flyingLowDataValue = 
+				flyingHighDataValue =
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				flyingAltitudeThreshold = 
+				spaceAltitudeThreshold = 16000000
+				//soi = 30897000
+				//radius = 4458000
+			}
+		}
+	}
+	@Body[Beddul-Dopale_Barycenter]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Beddul]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				flyingLowDataValue = 
+				flyingHighDataValue =
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				flyingAltitudeThreshold = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+	@Body[Dopale]
+	{
+		@Properties
+		{
+			!ScienceValues{}
+			ScienceValues
+			{
+				landedDataValue = 
+				splashedDataValue = 
+				flyingLowDataValue = 
+				flyingHighDataValue =
+				inSpaceLowDataValue = 
+				inSpaceHighDataValue = 
+				recoveryValue = 
+				flyingAltitudeThreshold = 
+				spaceAltitudeThreshold = 
+			}
+		}
+	}
+}
