@@ -13,16 +13,16 @@ Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 m
 Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work.
 
 # CREDITS:
-* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Pyri, Armstrong, Weegletoss, Lu, and Zhandar.
+* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Pyri, Dord, Armstrong, Weegletoss, Lu, and Zhandar.
 * Adstri: Support during development.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
-* Cloverdove: Olu, Millie, Sinacin, Glice
+* Cloverdove: Olu, Millie, Casy, Eron, Sinacin, Glice
 * The Orios: Cloud textures for Kilna, Alkin, and Arterr
-* Techo: Marith, Ulen, Ilmar, Tritonis, Andro, Arterr, Trithus
+* Techo: Marith, Radlun, Ulen, Ilmar, Tritonis, Andro, Arterr, Trithus
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
 * Marshall (Myth): Sandevistan
-* Wolf-Rayet: Garner, Naharosmank, Welkendon, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
+* Wolf-Rayet: Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
@@ -65,6 +65,8 @@ Ilio AB *System Barycenter*
     * Ilio-Pyri L4 II **Arterr**
     * Ilio-Pyri L4 III **Trithus**
 * Ilio-Pyri L5 **Millie**
+    * Ilio-Pyri L5 I **Casy**
+    * Ilio-Pyri L5 II **Eron**
 
 * Ilio C **Pyri**
     * Asteroid 1 **Dord**
@@ -74,12 +76,13 @@ Ilio AB *System Barycenter*
     * Asteroid 2 **Welkendon**
     * Asteroid 3 **Weegletoss**
     * Asteroid 4 **Naharosmank**
-    * Asteroid 5 **Schmev**
-    * Asteroid 6 **Gershmurzelen**
-    * Asteroid 7 **Raft**
-    * Asteroid 8 **Rider**
-    * Asteroid 9 **Quank**
-    * Asteroid 10 **Ogoquo**
+    * Asteroid 5 **Morhomlo**
+    * Asteroid 6 **Schmev**
+    * Asteroid 7 **Gershmurzelen**
+    * Asteroid 8 **Raft**
+    * Asteroid 9 **Rider**
+    * Asteroid 10 **Quank**
+    * Asteroid 11 **Ogoquo**
     * Pyri c **Haut-Oklo**
     * Pyri d **Zhandar**
     * Pyri-Zhandar L4 *Beddul-Dopale Barycenter*
