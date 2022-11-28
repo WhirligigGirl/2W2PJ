@@ -13,7 +13,7 @@ Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 m
 Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work.
 
 # CREDITS:
-* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Pyri, Dord, Armstrong, Weegletoss, Lu, and Zhandar.
+* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Weegletoss, Lu, and Zhandar.
 * Adstri: Support during development.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
 * Cloverdove: Olu, Millie, Casy, Eron, Sinacin, Glice
