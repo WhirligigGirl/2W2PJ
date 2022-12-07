@@ -13,22 +13,23 @@ Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 m
 Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work.
 
 # CREDITS:
-* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Weegletoss, Lu, and Zhandar.
-* Adstri: Support during development.
+* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Weegletoss, Lu, and Zhandar.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
 * Cloverdove: Olu, Millie, Casy, Eron, Sinacin, Glice
 * The Orios: Cloud textures for Kilna, Alkin, and Arterr
-* Techo: Marith, Radlun, Ulen, Ilmar, Tritonis, Andro, Arterr, Trithus
+* Techo: Squangus, Marith, Radlun, Ulen, Ilmar, Tritonis, Andro, Arterr, Trithus
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
 * Marshall (Myth): Sandevistan
-* Wolf-Rayet: Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
+* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
 * Triston: Sinacin, Rangon, Caua, Alia, Jones
 * JoQueeb: Kialla
 * ElectricPants: Blitzo, Nevig, Phyre, Wepor, Twilight
+
+Special thanks to Adstri for help during development, and Levana for playtesting and writing D or d's description.
 
 # SYSTEM LAYOUT:
 
@@ -48,11 +49,17 @@ Ilio AB *System Barycenter*
     * Ilio ABb III **Conscience**
     * Ilio ABb IV **Fish**
 * Ilio ABc **Kilna**
-    * Ilio ABc I **Drae**
-    * Ilio ABc II **Arach**
+    * Ilio ABc I **Smeezobbler**
+    * Ilio ABc II **Solin**
+    * Ilio ABc III **Floryet**
+    * Ilio ABc IV **Arach**
+    * Ilio ABc V **Drae**
+    * Ilio ABc VI **Whayt**
+    * Ilio ABc VII **Hemantreeantbumbalo**
 * Ilio ABd **Alkin**
-    * Ilio ABd I **Marith**
-    * Ilio ABd II **Radlun**
+    * Ilio ABd I **Squangus**
+    * Ilio ABd II **Marith**
+    * Ilio ABd III **Radlun**
     * Ilio ABd III **Ulen**
         * Ilio ABd IIIb **Ilmar**
 * Ilio ABe *Gerro-Sandevistan Barycenter*
@@ -71,6 +78,7 @@ Ilio AB *System Barycenter*
 * Ilio C **Pyri**
     * Asteroid 1 **Dord**
     * Pyri b **Armstrong**
+        * Pyri b I **Buzz**
     * Pyri-Armstrong L4 **Garner**
     * Pyri-Armstrong L5 **Lu**
     * Asteroid 2 **Welkendon**
