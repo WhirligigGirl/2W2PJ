@@ -60,8 +60,8 @@ Ilio AB *System Barycenter*
     * Ilio ABd I **Squangus**
     * Ilio ABd II **Marith**
     * Ilio ABd III **Radlun**
-    * Ilio ABd III **Ulen**
-        * Ilio ABd IIIb **Ilmar**
+    * Ilio ABd IV **Ulen**
+        * Ilio ABd IVb **Ilmar**
 * Ilio ABe *Gerro-Sandevistan Barycenter*
     * Ilio ABe A **Gerro**
         * Ilio ABe A I **Somna**
