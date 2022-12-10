@@ -21,7 +21,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
 * Marshall (Myth): Sandevistan
-* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
+* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gwargin, Phe, Ber, Deibos, Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
@@ -66,6 +66,10 @@ Ilio AB *System Barycenter*
     * Ilio ABe A **Gerro**
         * Ilio ABe A I **Somna**
     * Ilio ABe B **Sandevistan**
+* Ilio ABe L4 **Gwargin**
+    * Ilio ABe L4 I **Phe**
+	* Ilio ABe L4 II **Ber**
+	* Ilio ABe L4 III **Deibos**
 
 * Ilio-Pyri L4 **Tritonis**
     * Ilio-Pyri L4 I **Andro**
