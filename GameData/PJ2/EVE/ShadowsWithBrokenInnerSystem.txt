@@ -1,0 +1,659 @@
+EVE_SHADOWS
+{
+	//Ollo System
+	OBJECT
+	{
+		body = Ollo
+		caster = Olu
+		caster = Soval
+		caster = Fourcroy
+		caster = Conscience
+	}
+	OBJECT
+	{
+		caster = Ollo
+		body = Olu
+		caster = Soval
+		caster = Fourcroy
+		caster = Conscience
+	}
+	OBJECT
+	{
+		caster = Ollo
+		caster = Olu
+		body = Soval
+		caster = Fourcroy
+		caster = Conscience
+	}
+	OBJECT
+	{
+		caster = Ollo
+		caster = Olu
+		caster = Soval
+		body = Fourcroy
+		caster = Conscience
+	}
+	OBJECT
+	{
+		caster = Ollo
+		caster = Olu
+		caster = Fourcroy
+		body = Conscience
+	}
+	OBJECT
+	{
+		caster = Ollo
+		caster = Olu
+		caster = Fourcroy
+		caster = Conscience
+		body = Fish
+	}
+	
+	//Kilna System
+	OBJECT
+	{
+		body = Kilna
+		caster = Smeezobbler
+		caster = Solin
+		caster = Floryet
+		caster = Drae
+		caster = Arach
+		caster = Whayt
+	}
+	OBJECT
+	{
+		caster = Kilna
+		body = Smeezobbler
+		caster = Solin
+		caster = Floryet
+		caster = Drae
+		caster = Arach
+		caster = Whayt
+	}
+	OBJECT
+	{
+		caster = Kilna
+		caster = Smeezobbler
+		body = Solin
+		caster = Floryet
+		caster = Drae
+		caster = Arach
+		caster = Whayt
+	}
+	OBJECT
+	{
+		caster = Kilna
+		caster = Solin
+		body = Floryet
+		caster = Drae
+		caster = Arach
+		caster = Whayt
+	}
+	OBJECT
+	{
+		caster = Kilna
+		caster = Solin
+		caster = Floryet
+		body = Drae
+		caster = Arach
+		caster = Whayt
+	}
+	OBJECT
+	{
+		caster = Kilna
+		caster = Solin
+		caster = Floryet
+		caster = Drae
+		body = Arach
+		caster = Whayt
+	}
+	OBJECT
+	{
+		caster = Kilna
+		caster = Solin
+		caster = Floryet
+		caster = Drae
+		body = Whayt
+		caster = Hemantreeantbumbalo
+	}
+	OBJECT
+	{
+		caster = Kilna
+		caster = Smeezobbler
+		caster = Solin
+		caster = Floryet
+		caster = Drae
+		caster = Whayt
+		body = Hemantreeantbumbalo
+	}
+	
+	//Alkin
+	OBJECT
+	{
+		body = Alkin
+		caster = Squangus
+		caster = Marith
+		caster = Radlun
+		caster = Ulen
+		caster = Ilmar
+	}
+	OBJECT
+	{
+		caster = Alkin
+		body = Squangus
+		caster = Marith
+		caster = Radlun
+		caster = Ulen
+		caster = Ilmar
+	}
+	OBJECT
+	{
+		caster = Alkin
+		caster = Squangus
+		body = Marith
+		caster = Radlun
+		caster = Ulen
+		caster = Ilmar
+	}
+	OBJECT
+	{
+		caster = Alkin
+		caster = Squangus
+		caster = Marith
+		body = Radlun
+		caster = Ulen
+		caster = Ilmar
+	}
+	OBJECT
+	{
+		caster = Alkin
+		caster = Squangus
+		caster = Marith
+		caster = Radlun
+		body = Ulen
+		caster = Ilmar
+	}
+	OBJECT
+	{
+		caster = Alkin
+		caster = Squangus
+		caster = Marith
+		caster = Radlun
+		caster = Ulen
+		body = Ilmar
+	}
+	
+	//Gerro-Sandevistan
+	OBJECT
+	{
+		body = Gerro
+		caster = Somna
+		caster = Sandevistan
+	}
+	OBJECT
+	{
+		caster = Gerro
+		body = Somna
+		caster = Sandevistan
+	}
+	OBJECT
+	{
+		caster = Gerro
+		caster = Somna
+		body = Sandevistan
+	}
+	
+	//Tritonis
+	OBJECT
+	{
+		body = Tritonis
+		caster = Andro
+		caster = Arterr
+		caster = Trithius
+	}
+	OBJECT
+	{
+		caster = Tritonis
+		body = Andro
+		caster = Arterr
+		caster = Trithius
+	}
+	OBJECT
+	{
+		caster = Tritonis
+		caster = Andro
+		body = Arterr
+		caster = Trithius
+	}
+	OBJECT
+	{
+		caster = Tritonis
+		caster = Andro
+		caster = Arterr
+		body = Trithius
+	}
+	
+	//Millie
+	OBJECT
+	{
+		body = Millie
+		caster = Eron
+		caster = Casy
+	}
+	OBJECT
+	{
+		caster = Millie
+		body = Eron
+		caster = Casy
+	}
+	OBJECT
+	{
+		caster = Millie
+		caster = Eron
+		body = Casy
+	}
+	
+	//Armstrong
+	OBJECT
+	{
+		body = Kerbin //armstrong
+		caster = Buzz
+	}
+	OBJECT
+	{
+		caster = Kerbin //armstrong
+		body = Buzz
+	}
+	
+	//Early Game Belt
+	OBJECT
+	{
+		body = Naharosmank
+		caster = Kerbin //armstrong
+		caster = Lu
+	}
+	OBJECT
+	{
+		body = Weegletoss
+		caster = Kerbin //armstrong
+		caster = Lu
+	}
+	OBJECT
+	{
+		body = Welkendon
+		caster = Kerbin //armstrong
+		caster = Lu
+	}
+	OBJECT
+	{
+		body = Morhomlo
+		caster = Kerbin //armstrong
+	}
+	OBJECT
+	{
+		body = Schmev
+		caster = Kerbin //armstrong
+	}
+	OBJECT
+	{
+		body = Gershmurzelen
+		caster = Kerbin //armstrong
+	}
+	OBJECT
+	{
+		body = Rider
+		caster = Kerbin //armstrong
+	}
+	OBJECT
+	{
+		body = Raft
+		caster = Kerbin //armstrong
+	}
+	OBJECT
+	{
+		body = Quank
+		caster = Haut-Oklo
+	}
+	OBJECT
+	{
+		body = Ogoquo
+		caster = Haut-Oklo
+	}
+	
+	//Beddul-Dopale
+	OBJECT
+	{
+		body = Beddul
+		caster = Dopale
+	}
+	OBJECT
+	{
+		caster = Beddul
+		body = Dopale
+	}
+	
+	//Bifrost System
+	OBJECT
+	{
+		body = Bifröst
+		caster = Máni
+		caster = Ljós
+		caster = Bil
+		caster = Heimdall
+		caster = Jötunn
+	}
+	OBJECT
+	{
+		caster = Bifröst
+		body = Máni
+		caster = Ljós
+		caster = Bil
+		caster = Heimdall
+		caster = Jötunn
+	}
+	OBJECT
+	{
+		caster = Bifröst
+		caster = Máni
+		body = Ljós
+		caster = Bil
+		caster = Heimdall
+		caster = Jötunn
+	}
+	OBJECT
+	{
+		caster = Bifröst
+		caster = Máni
+		caster = Ljós
+		body = Bil
+		caster = Heimdall
+		caster = Jötunn
+	}
+	OBJECT
+	{
+		caster = Bifröst
+		caster = Máni
+		caster = Bil
+		body = Heimdall
+		caster = Jötunn
+	}
+	OBJECT
+	{
+		caster = Bifröst
+		caster = Máni
+		caster = Bil
+		caster = Heimdall
+		body = Þórr
+		caster = Jötunn
+	}
+	OBJECT
+	{
+		caster = Bifröst
+		caster = Máni
+		caster = Bil
+		caster = Heimdall
+		body = Jötunn
+	}
+	
+	//Sinacin System
+	OBJECT
+	{
+		body = Sinacin
+		caster = Rangon
+		caster = Glice
+		caster = Caua
+		caster = Alia
+	}
+	OBJECT
+	{
+		caster = Sinacin
+		body = Rangon
+		caster = Glice
+		caster = Caua
+		caster = Alia
+	}
+	OBJECT
+	{
+		caster = Sinacin
+		body = Glice
+		caster = Caua
+		caster = Alia
+	}
+	OBJECT
+	{
+		caster = Sinacin
+		caster = Glice
+		body = Caua
+		caster = Alia
+	}
+	OBJECT
+	{
+		caster = Sinacin
+		caster = Glice
+		caster = Caua
+		body = Alia
+		caster = Jones
+	}
+	OBJECT
+	{
+		caster = Sinacin
+		caster = Glice
+		caster = Caua
+		caster = Alia
+		body = Jones
+	}
+	
+	//Oyngag Mess
+	OBJECT
+	{
+		body = Oynag
+		caster = Viszra
+		caster = Jejunum
+		caster = Acic
+		caster = Atrium
+		caster = Fundus
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		body = Viszra
+		caster = Jejunum
+		caster = Acic
+		caster = Atrium
+		caster = Fundus
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		caster = Viszra
+		body = Jejunum
+		caster = Acic
+		caster = Atrium
+		caster = Fundus
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		caster = Viszra
+		caster = Jejunum
+		body = Acic
+		caster = Atrium
+		caster = Fundus
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		caster = Viszra
+		caster = Jejunum
+		caster = Acic
+		body = Atrium
+		caster = Fundus
+		caster = Cuspid
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		caster = Viszra
+		caster = Jejunum
+		caster = Acic
+		caster = Atrium
+		body = Fundus
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		caster = Viszra
+		caster = Jejunum
+		caster = Acic
+		caster = Atrium
+		caster = Fundus
+		body = Cuspid
+		caster = Cricoid
+	}
+	OBJECT
+	{
+		caster = Oynag
+		caster = Viszra
+		caster = Jejunum
+		caster = Acic
+		caster = Atrium
+		caster = Fundus
+		body = Cricoid
+	}
+	
+	//Descry
+	OBJECT
+	{
+		body = Descry
+		caster = Zeppeli
+		caster = Pendle
+	}
+	OBJECT
+	{
+		caster = Descry
+		body = Zeppeli
+		caster = Pendle
+	}
+	OBJECT
+	{
+		caster = Descry
+		body = Zeppeli
+		caster = Pendle
+	}
+	
+	//Zzizel
+	OBJECT
+	{
+		body = Zzizel
+		caster = Skle
+	}
+	OBJECT
+	{
+		caster = Zzizel
+		body = Skle
+	}
+	
+	//Tobalk-Turtlestar
+	OBJECT
+	{
+		body = Tobalk
+		caster = Turtlestar
+		caster = Hysnoon
+		caster = Hidalgo
+		caster = Pi
+	}
+	OBJECT
+	{
+		caster = Tobalk
+		body = Turtlestar
+		caster = Hysnoon
+		caster = Hidalgo
+		caster = Pi
+	}
+	OBJECT
+	{
+		caster = Tobalk
+		caster = Turtlestar
+		body = Hysnoon
+		caster = Hidalgo
+		caster = Pi
+	}
+	OBJECT
+	{
+		caster = Tobalk
+		caster = Turtlestar
+		caster = Hysnoon
+		body = Hidalgo
+		caster = Pi
+	}
+	OBJECT
+	{
+		caster = Tobalk
+		caster = Turtlestar
+		caster = Hysnoon
+		caster = Hidalgo
+		body = Pi
+	}
+	
+	//Kialla
+	OBJECT
+	{
+		body = Kialla
+		caster = Blitzø
+		caster = Nevig
+		caster = Phyre
+		caster = Wepor
+		caster = Twilight
+	}
+	OBJECT
+	{
+		caster = Kialla
+		body = Blitzø
+		caster = Nevig
+		caster = Phyre
+		caster = Wepor
+		caster = Twilight
+	}
+	OBJECT
+	{
+		caster = Kialla
+		caster = Blitzø
+		body = Nevig
+		caster = Phyre
+		caster = Wepor
+		caster = Twilight
+	}
+	OBJECT
+	{
+		caster = Kialla
+		caster = Blitzø
+		caster = Nevig
+		body = Phyre
+		caster = Wepor
+		caster = Twilight
+	}
+	OBJECT
+	{
+		caster = Kialla
+		caster = Blitzø
+		caster = Nevig
+		caster = Phyre
+		body = Wepor
+		caster = Twilight
+	}
+	OBJECT
+	{
+		caster = Kialla
+		caster = Blitzø
+		caster = Nevig
+		caster = Phyre
+		caster = Wepor
+		body = Twilight
+	}
+}
