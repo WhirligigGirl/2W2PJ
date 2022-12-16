@@ -2,7 +2,7 @@
 Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 modders to make a large planetary system.
 
 80 planets. 2 weeks!
-Well now it's 94 actually but it took like another month to get this far.
+Well now it's 97 actually but it took like another month to get this far.
 
 # REQUIREMENTS:
 * Kopernicus (and its prerequisites)
@@ -22,7 +22,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
 * Marshall (Myth): Sandevistan
-* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gwargin, Phe, Ber, Deibos, Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
+* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
@@ -71,6 +71,8 @@ Ilio AB *System Barycenter*
     * Ilio ABe L4 I **Phe**
 	* Ilio ABe L4 II **Ber**
 	* Ilio ABe L4 III **Deibos**
+	* Ilio ABe L4 IV **Phomos**
+	* Ilio ABe L4 V **Bercue**
 
 * Ilio-Pyri L4 **Tritonis**
     * Ilio-Pyri L4 I **Andro**
