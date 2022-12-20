@@ -13,6 +13,9 @@ Well now it's 98 actually but it took like another month to get this far.
 
 Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are required for the mod to work.
 
+# MOD COMPATIBILITY:
+* Custom Barn Kit: Patch available that improves capability of Tier 1 and Tier 2 buildings, adds Tier 1.5 and 2.5 upgrades.
+
 # CREDITS:
 * Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Desmet, Weegletoss, Lu, and Zhandar.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
