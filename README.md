@@ -2,7 +2,7 @@
 Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 modders to make a large planetary system.
 
 80 planets. 2 weeks!
-Well now it's 98 actually but it took like another month to get this far.
+Well now it's 101 actually but it took two months to get this far.
 
 # REQUIREMENTS:
 * Kopernicus (and its prerequisites)
@@ -20,12 +20,12 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Desmet, Weegletoss, Lu, and Zhandar.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
 * Cloverdove: Olu, Millie, Casy, Eron, Sinacin, Glice
-* The Orios: Cloud textures for Kilna, Alkin, and Arterr
-* Techo: Squangus, Marith, Radlun, Ulen, Ilmar, Tritonis, Andro, Arterr, Trithus
+* The Orios: Cloud textures for Kilna, Alkin, and Arterr; heightmap for Trithium
+* Techo: Squangus, Marith, Radlun, Ulen, Ilmar, Montauk, Tritonis, Andro, Arterr, Trithus, Trithium
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
-* Marshall (Myth): Sandevistan
-* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
+* Marshall (Myth): Sandevistan, Montauk & Tremelo
+* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Tremelo, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
@@ -70,6 +70,8 @@ Ilio AB *System Barycenter*
     * Ilio ABe A **Gerro**
         * Ilio ABe A I **Somna**
     * Ilio ABe B **Sandevistan**
+		* Ilio ABe B I **Montauk**
+		* Ilio ABe B Iq **Tremelo**
 * Ilio ABe L4 **Gwargin**
     * Ilio ABe L4 I **Phe**
 	* Ilio ABe L4 II **Ber**
@@ -80,7 +82,8 @@ Ilio AB *System Barycenter*
 * Ilio-Pyri L4 **Tritonis**
     * Ilio-Pyri L4 I **Andro**
     * Ilio-Pyri L4 II **Arterr**
-    * Ilio-Pyri L4 III **Trithus**
+	* Ilio-Pyri L4 III **Trithium**
+    * Ilio-Pyri L4 IV **Trithus**
 * Ilio-Pyri L5 **Millie**
     * Ilio-Pyri L5 I **Casy**
     * Ilio-Pyri L5 II **Eron**
