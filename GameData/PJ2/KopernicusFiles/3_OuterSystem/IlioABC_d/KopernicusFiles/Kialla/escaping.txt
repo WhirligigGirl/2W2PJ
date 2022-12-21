@@ -12,7 +12,7 @@ UTC 03:30:01 - Second Stage Ignition
 
 UTC 03:35:08 - Second Stage Engine Cutoff
 
-UTC 03:38:47 - Beginning Approach to USC Twilight
+UTC 03:38:47 - Beginning Approach to USS Twilight
 
 UTC 03:59:13 - Final Approach
 
