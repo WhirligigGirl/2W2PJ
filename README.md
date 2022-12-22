@@ -1,11 +1,13 @@
 # 2W2PJ
 Planetjam 2 -- the sequel to Week World Planet Jam, a collaboration between 16 modders to make a large planetary system.
 
-80 planets. 2 weeks!
-Well now it's 101 actually but it took two months to get this far.
+In the first week, during the "Planet Jam" itself, 15 modders worked together to make a system with 80 planets.
+After two months of work, further development, bugfixing, and polish, has resulted in a 101-planet system!
 
 # REQUIREMENTS:
-* Kopernicus (and its prerequisites)
+* Kopernicus (and its prerequisites).
+    * NOTE: There is a game-breaking heating bug originating in Kopernicus release-140. We are investigating the cause, but for now, please use an older version.
+	* The latest confirmed working version of Kopernicus is **release-139**. https://github.com/Kopernicus/Kopernicus/releases/tag/release-139
 * Niako's Mitchell-Netravali Filtered Heightmap: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
 * Kopernicus Expansions Continued-er: https://github.com/VabienArt/KopernicusExpansion-Continueder/releases
 * Scatterer: https://github.com/LGhassen/Scatterer/releases/
@@ -17,7 +19,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Custom Barn Kit: Patch available that improves capability of Tier 1 and Tier 2 buildings, adds Tier 1.5 and 2.5 upgrades.
 
 # CREDITS:
-* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Desmet, Weegletoss, Lu, and Zhandar.
+* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Desmet, Weegletoss, Lu, and Zhandar. ThreeAliens loading screen art.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
 * Cloverdove: Olu, Millie, Casy, Eron, Sinacin, Glice
 * The Orios: Cloud textures for Kilna, Alkin, and Arterr; heightmap for Trithium
@@ -25,7 +27,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
 * Marshall (Myth): Sandevistan, Montauk & Tremelo
-* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Tremelo, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
+* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Tremelo, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file, Pyri System loading screen art.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
