@@ -5,7 +5,7 @@ In the first week, during the "Planet Jam" itself, 15 modders worked together to
 After two months of work, further development, bugfixing, and polish, has resulted in a 101-planet system!
 
 # REQUIREMENTS:
-* Kopernicus (and its prerequisites).
+* Kopernicus v139 (and its prerequisites).
     * NOTE: There is a game-breaking heating bug originating in Kopernicus release-140. We are investigating the cause, but for now, please use an older version.
 	* The latest confirmed working version of Kopernicus is **release-139**. https://github.com/Kopernicus/Kopernicus/releases/tag/release-139
 * Niako's Mitchell-Netravali Filtered Heightmap: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
