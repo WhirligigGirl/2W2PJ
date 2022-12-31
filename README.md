@@ -17,7 +17,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Custom Barn Kit: Patch available that improves capability of Tier 1 and Tier 2 buildings, adds Tier 1.5 and 2.5 upgrades.
 
 # CREDITS:
-* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Desmet, Weegletoss, Lu, and Zhandar. ThreeAliens loading screen art.
+* Luna/Gregrox: Project coordinator. System layout planner. Ilio Phosphol, Ilio Vespol, Somna, Pyri, Dord, Armstrong, Buzz, Desmet, Weegletoss, Lu, and Zhandar.
 * SnailsAttack: Ollo, Soval, Fourcroy, Conscience, Fish, Raft, Quank, Ogoquo, Tobalk, Turtlestar, Hidalgo, Pi, Hadfield
 * Cloverdove: Olu, Millie, Casy, Eron, Sinacin, Glice
 * The Orios: Cloud textures for Kilna, Alkin, and Arterr; heightmap for Trithium
@@ -25,7 +25,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Mh: Kilna, Drae, Arach, Radlun, Ulen, Ilmar
 * Interplanet Janet: Gerro, Somna
 * Marshall (Myth): Sandevistan, Montauk & Tremelo
-* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Tremelo, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file, Pyri System loading screen art.
+* Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Tremelo, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
 * Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
