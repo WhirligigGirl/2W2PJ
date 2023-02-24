@@ -33,7 +33,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * JoQueeb: Kialla
 * ElectricPants: Blitzo, Nevig, Phyre, Wepor, Twilight
 
-Special thanks to Adstri for help during development, and Levana for playtesting, creating Lu's biome map, and writing D or d's description.
+Special thanks to Adstri for help during development, and Levana for playtesting, creating Lu's biome map, and writing D or d's description. Special thanks to Leganeski for PlanetJam2: Alternate Realism Configuration, which is now implemented into PJ2 directly.
 
 # SYSTEM LAYOUT:
 
