@@ -1,0 +1,81 @@
+EVE_CLOUDS
+{
+	OBJECT
+	{
+		name = BeddulOrangeClouds
+		body = Beddul
+		altitude = 11300
+		speed = 0,100,0
+		detailSpeed = 0,6,0
+		settings
+		{
+			_DetailScale = 12
+			_UVNoiseScale = 1
+			_UVNoiseStrength = 0.03
+			_UVNoiseAnimation = -0.02,0.0
+			_UVNoiseTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/UV
+			_MainTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/CloudsOrange
+			_DetailTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/Detail4
+			_Color = 255,255,255,255
+		}
+		layer2D
+		{
+			macroCloudMaterial
+			{
+				_DetailDist = 2E-7
+			}
+		}
+	}
+	OBJECT
+	{
+		name = BeddulBrownClouds
+		body = Beddul
+		altitude = 14500
+		speed = 0,200,0
+		detailSpeed = 0,2,0
+		settings
+		{
+			_DetailScale = 12
+			_UVNoiseScale = 1
+			_UVNoiseStrength = 0.03
+			_UVNoiseAnimation = -0.01,0.0
+			_UVNoiseTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/UV
+			_MainTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/CloudsBrown
+			_DetailTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/Detail4
+			_Color = 255,255,255,255
+		}
+		layer2D
+		{
+			macroCloudMaterial
+			{
+				_DetailDist = 2E-7
+			}
+		}
+	}
+	OBJECT
+	{
+		name = BeddulWhiteClouds
+		body = Beddul
+		altitude = 12500
+		speed = 0,130,0
+		detailSpeed = 0,10,0
+		settings
+		{
+			_DetailScale = 12
+			_UVNoiseScale = 1
+			_UVNoiseStrength = 0.05
+			_UVNoiseAnimation = -0.169,0.0
+			_UVNoiseTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/UV
+			_MainTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/CloudsWhite
+			_DetailTex = PJ2/KopernicusFiles/2_PyriSystem/IlioC_d_trojan/ScattererEVE/Textures/Detail4
+			_Color = 255,255,255,255
+		}
+		layer2D
+		{
+			macroCloudMaterial
+			{
+				_DetailDist = 2E-7
+			}
+		}
+	}
+}
