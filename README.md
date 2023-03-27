@@ -28,7 +28,7 @@ Yes, Scatterer and EVE are *REQUIRED*. They are not merely supported, they are r
 * Wolf-Rayet: Smeezobbler, Solin, Floryet, Whayt, Hemantreeantbumbalo, Gerro, Tremelo, Gwargin, Phe, Ber, Deibos, Phomos, Bercue, Dord, Garner, Desmet, Naharosmank, Welkendon, Morhomlo, Schmev, Gershmerzelen, Mani, Jotunn, Oynag, Viszra, Jejunum, Acic, Atrium, Cuspid, Fundus, Cricoid, Descry, Zeppeli, Pendle, Zziezel, Xeititit, Hysnoon, help with a settings file.
 * Tholin: Haut-Oklo
 * Caps Lock: Beddul, Dopale
-* Sabine: Bifrost, Bil, Ljos, Heimdall, Thorr
+* Sabine (WarriorSabe): Bifrost, Bil, Ljos, Heimdall, Thorr
 * Triston: Sinacin, Rangon, Caua, Alia, Jones
 * JoQueeb: Kialla
 * ElectricPants: Blitzo, Nevig, Phyre, Wepor, Twilight
