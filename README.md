@@ -8,6 +8,7 @@ After two months of work, further development, bugfixing, and polish, has result
 * Kopernicus v141 or later (and its prerequisites). https://github.com/Kopernicus/Kopernicus/releases/
 * Niako's Mitchell-Netravali Filtered Heightmap: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
 * Kopernicus Expansions Continued-er: https://github.com/VabienArt/KopernicusExpansion-Continueder/releases
+    * note that due to a missing RunSharp.dll in the latest version, *you should be sure to use Beta 9 - 1.11*, **NOT Beta 9 - 1.12**, at least until this is fixed.
 * Scatterer: https://github.com/LGhassen/Scatterer/releases/
 * Environmental Visual Enhancements Redux: https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/
 
